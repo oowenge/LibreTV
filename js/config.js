@@ -110,15 +110,15 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    ikun: {
+    ikun2: {
         api: 'http://api.if101.tv/v1/vod',
         name: 'if101[屏蔽国内ip]'
     },
-    ikun: {
+    ikun3: {
         api: 'http://chaorenbb.com/api.php/v1.vod',
         name: 'DC影视(M2)'
     },
-    ikun: {
+    ikun4: {
         api: 'http://35ys.cc/api.php/v1.vod',
         name: '独播社(M2)'
     },
