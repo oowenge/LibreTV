@@ -14,7 +14,7 @@ const PASSWORD_CONFIG = {
 // 网站信息配置
 const SITE_CONFIG = {
     name: 'LibreTV',
-    url: 'https://libretv.is-an.org',
+    url: 'https://dianyingyuan.dpdns.org',
     description: '免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
     version: '1.0.3'
@@ -109,6 +109,106 @@ const API_SITES = {
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
+    },
+    ikun: {
+        api: 'http://api.if101.tv/v1/vod',
+        name: 'if101[屏蔽国内ip]'
+    },
+    ikun: {
+        api: 'http://chaorenbb.com/api.php/v1.vod',
+        name: 'DC影视(M2)'
+    },
+    ikun: {
+        api: 'http://35ys.cc/api.php/v1.vod',
+        name: '独播社(M2)'
+    },
+    ikun: {
+        api: 'http://121.204.249.135:4433/ruifenglb_api.php/v1.vod',
+        name: '段友影视(M2)'
+    },
+    ikun: {
+        api: 'https://shangjihuoke.com/api.php/tv.vod',
+        name: '段友影视(M2)2'
+    },
+    ikun: {
+        api: 'http://42.157.129.15:34444/lvdou_api.php/v1.vod',
+        name: '粉象视界(M2)'
+    },
+    ikun: {
+        api: 'http://kk.ccboke.top/ruifenglb_api.php/v1.vod',
+        name: '看看影视(M2)'
+    },
+    ikun: {
+        api: 'https://ys.ling00.cn/api.php/v1.vod',
+        name: '零刻影院(M2)'
+    },
+    ikun: {
+        api: 'http://fgyuu.top/lehailb_api.php/v1.vod',
+        name: '琅琊影视(M2)'
+    },
+    ikun: {
+        api: 'https://meijuchong.com/api.php/v1.vod',
+        name: '美剧虫(M2)'
+    },
+    ikun: {
+        api: 'https://app.bl210.com/api.php/v1.vod',
+        name: '暖光影视(M2)'
+    },
+    ikun: {
+        api: 'http://app.xdys.vip/mogai_api.php/v1.vod',
+        name: '兄弟影视(M2)'
+    },
+    ikun: {
+        api: 'http://luobu.yss6080.com/mogai_api.php/v1.vod',
+        name: '益达影院(M2)'
+    },
+    ikun: {
+        api: 'http://app.ysys.asia/lvdou_api.php/v1.vod',
+        name: '优视影视(M2)'
+    },
+    ikun: {
+        api: 'http://221.236.18.12:665/api.php/v1.vod',
+        name: '影阅阁(M2)'
+    },
+    ikun: {
+        api: 'https://www.qcsvip.com/mogai_api.php/v1.vod',
+        name: 'QC影视(M2)'
+    },
+    ikun: {
+        api: 'http://www.cccvvv.top/api.php/provide/vod',
+        name: 'CV影视(M2)'
+    },
+    ikun: {
+        api: 'https://lehootv.com/api.php/provide/vod',
+        name: '乐活影视'
+    },
+    ikun: {
+        api: 'http://api.fqzy.cc/api.php/provide/vod',
+        name: '番茄资源'
+    },
+    ikun: {
+        api: 'http://www.kuaibozy.com/api.php/provide/vod',
+        name: '快播资源'
+    },
+    ikun: {
+        api: 'https://m3u8.feisuzyapi.com/api.php/provide/vod',
+        name: '飞速资源'
+    },
+    ikun: {
+        api: 'https://www.vp1127.com/api.php/provide/vod',
+        name: '快看客栈'
+    },
+    ikun: {
+        api: 'https://www.zwcoco.com/api.php/provide/vod',
+        name: '哇可可影视'
+    },
+    ikun: {
+        api: 'https://api.ylzy1.com/api.php/provide/vod',
+        name: '鱼乐资源'
+    },
+    ikun: {
+        api: 'https://api.kuapi.cc/api.php/provide/vod',
+        name: '酷点资源'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
