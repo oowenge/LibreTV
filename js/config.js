@@ -54,7 +54,7 @@ const API_SITES = {
     },
     
     FTYS: {
-        api: 'https://www.fantuan.tv/api.php/provide/vod/',
+        api: 'https://xzybb1.com/api.php/provide/vod/at/xml',
         name: '饭团影视',
         adult: false
     },
@@ -66,7 +66,7 @@ const API_SITES = {
     },
 
     QQZY: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod/',
+        api: 'https://caiji.dbzy5.com/api.php/provide/vod/at/xml/',
         name: '七七资源',
         adult: false
     },
@@ -78,35 +78,22 @@ const API_SITES = {
 },
 
 KUNYU77: {
-    api: 'https://kunyu77api.com/api.php/provide/vod/',
+    api: 'https://hhzyapi.com/api.php/provide/vod',
     name: '鲲娱77',
     adult: false
 },
 
 LTZY: {
-    api: 'https://api.leduozy.com/api.php/provide/vod/',
+    api: 'https://www.huyaapi.com/api.php/provide/vod/at/json',
     name: '乐多资源',
     adult: false
 },
 
 BEBEZY: {
-    api: 'https://cj.bebezy.cc/api.php/provide/vod/',
+    api: 'https://apiyutu.com/api.php/provide/vod/?ac=list',
     name: '贝贝资源',
     adult: false
 },
-
-MGZY: {
-    api: 'https://mgzyz1.com/api.php/provide/vod/',
-    name: '猫狗资源',
-    adult: false
-},
-
-OKZY: {
-    api: 'https://okzyw.com/api.php/provide/vod/',
-    name: 'OK资源网',
-    adult: false
-}
-
 
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
