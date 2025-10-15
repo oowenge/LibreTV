@@ -35,26 +35,20 @@ const API_SITES = {
         adult: false
     },
 
-    movieCat: {
-        api: 'https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/',
+    movieCat3: {
+        api: 'https://api.guangsuapi.com/api.php/provide/vod/at/xml/',
         name: '综合接口2',
         adult: false
     },
 
-    movieCat3: {
-        api: 'https://caiji.maotaizy.cc',
-        name: '综合接口3',
-        adult: false
-    },
-
     yutu3: {
-        api: 'https://apiyutu.com/api.php/provide/vod/at/xml/',
+        api: 'https://jyzyapi.com/provide/vod',
         name: '玉兔',
         adult: false
     },
 
     pingguo3: {
-        api: 'https://caiji.dbzy5.com/api.php/provide/vod/at/xml/',
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/',
         name: '苹果',
         adult: false
     },
@@ -78,7 +72,7 @@ const API_SITES = {
     },
 
     SP360: {
-    api: 'https://api.360zy.cc/api.php/provide/vod/',
+    api: 'https://subocj.com/api.php/provide/vod',
     name: '360资源',
     adult: false
 },
