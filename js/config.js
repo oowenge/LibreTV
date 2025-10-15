@@ -83,12 +83,6 @@ KUNYU77: {
     adult: false
 },
 
-LTZY: {
-    api: 'https://www.huyaapi.com/api.php/provide/vod/at/json',
-    name: '乐多资源',
-    adult: false
-},
-
 BEBEZY: {
     api: 'https://apiyutu.com/api.php/provide/vod/?ac=list',
     name: '贝贝资源',
