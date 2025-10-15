@@ -30,17 +30,34 @@ const API_SITES = {
 
     
     freeTV: {
-        api: 'https://freetvapi.net/api.php/provide/vod',
-        name: 'FreeTV资源站',
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
+        name: '综合接口',
         adult: false
     },
 
     movieCat: {
-        api: 'https://catapi.cc/api.php/provide/vod',
-        name: 'MovieCat资源站',
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/',
+        name: '综合接口2',
         adult: false
     },
 
+    movieCat3: {
+        api: 'https://caiji.maotaizy.cc',
+        name: '综合接口3',
+        adult: false
+    },
+
+    yutu3: {
+        api: 'https://apiyutu.com/api.php/provide/vod/at/xml/',
+        name: '玉兔',
+        adult: false
+    },
+
+    pingguo3: {
+        api: 'https://caiji.dbzy5.com/api.php/provide/vod/at/xml/',
+        name: '苹果',
+        adult: false
+    },
     
     FTYS: {
         api: 'https://www.fantuan.tv/api.php/provide/vod/',
