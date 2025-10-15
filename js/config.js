@@ -83,12 +83,6 @@ KUNYU77: {
     adult: false
 },
 
-BEBEZY: {
-    api: 'https://apiyutu.com/api.php/provide/vod/?ac=list',
-    name: '贝贝资源',
-    adult: false
-},
-
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
