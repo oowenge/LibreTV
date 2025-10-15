@@ -26,7 +26,77 @@ const API_SITES = {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
         adult: true
-    }
+    },
+
+    
+    freeTV: {
+        api: 'https://freetvapi.net/api.php/provide/vod',
+        name: 'FreeTV资源站',
+        adult: false
+    },
+
+    movieCat: {
+        api: 'https://catapi.cc/api.php/provide/vod',
+        name: 'MovieCat资源站',
+        adult: false
+    },
+
+    
+    FTYS: {
+        api: 'https://www.fantuan.tv/api.php/provide/vod/',
+        name: '饭团影视',
+        adult: false
+    },
+
+    YSGC: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod/',
+        name: '影视工厂',
+        adult: false
+    },
+
+    QQZY: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod/',
+        name: '七七资源',
+        adult: false
+    },
+
+    SP360: {
+    api: 'https://api.360zy.cc/api.php/provide/vod/',
+    name: '360资源',
+    adult: false
+},
+
+KUNYU77: {
+    api: 'https://kunyu77api.com/api.php/provide/vod/',
+    name: '鲲娱77',
+    adult: false
+},
+
+LTZY: {
+    api: 'https://api.leduozy.com/api.php/provide/vod/',
+    name: '乐多资源',
+    adult: false
+},
+
+BEBEZY: {
+    api: 'https://cj.bebezy.cc/api.php/provide/vod/',
+    name: '贝贝资源',
+    adult: false
+},
+
+MGZY: {
+    api: 'https://mgzyz1.com/api.php/provide/vod/',
+    name: '猫狗资源',
+    adult: false
+},
+
+OKZY: {
+    api: 'https://okzyw.com/api.php/provide/vod/',
+    name: 'OK资源网',
+    adult: false
+}
+
+
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
